@@ -1,0 +1,2 @@
+age,city,contact,id,is_student,name,notes,skills,age,city,contact.email,contact.phone,id,is_student,name,notes,skills
+22,"Pune","anurag@example.com","+91-9876543210",101,true,"Anurag",,""Rust","Python","Machine Learning""

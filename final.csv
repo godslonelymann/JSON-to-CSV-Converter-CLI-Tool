@@ -1,0 +1,2 @@
+age,contact,is_student,name,skills
+22,{"email":"anurag@example.com","phone":"+91-9876543210"},true,"Anurag",["Rust","Python","Machine Learning"]

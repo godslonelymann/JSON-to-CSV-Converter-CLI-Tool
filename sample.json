@@ -1,0 +1,13 @@
+{
+  "id": 101,
+  "name": "Anurag",
+  "age": 22,
+  "is_student": true,
+  "skills": ["Rust", "Python", "Machine Learning"],
+  "contact": {
+    "email": "anurag@example.com",
+    "phone": "+91-9876543210"
+  },
+  "city": "Pune",
+  "notes": null
+}

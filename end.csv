@@ -1,0 +1,4 @@
+age,city,is_student,name
+22,"Pune",true,"Anurag"
+25,"Mumbai",false,"Maya"
+30,"Delhi",true,"Raj"
