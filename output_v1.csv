@@ -1,5 +1,0 @@
-age,city,contact.email,contact.phone,id,is_student,name,notes,skills
-22,"Pune","anurag@example.com","+91-9876543210",1,true,"Anurag",,""Rust";"Python";"Machine Learning""
-25,"Mumbai","maya@example.com",,2,false,"Maya",,""Go";"JavaScript""
-30,,,"+91-1122334455",3,true,"Raj",,""
-28,"Delhi",,,4,false,"Sara","Loves mobile development",""C++";"Kotlin";"Swift""
